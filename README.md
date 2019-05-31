@@ -1,5 +1,6 @@
 ## Minecraft
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/df65bac6a97e4672b9f8baee5af0ac3d)](https://app.codacy.com/app/giacocipo/ProyectoMinecraft?utm_source=github.com&utm_medium=referral&utm_content=Giacocipo/ProyectoMinecraft&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/Giacocipo/ProyectoMinecraft.svg?branch=master)](https://travis-ci.org/Giacocipo/ProyectoMinecraft)
 [![codecov](https://codecov.io/gh/Giacocipo/ProyectoMinecraft/branch/master/graph/badge.svg)](https://codecov.io/gh/Giacocipo/ProyectoMinecraft)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2bc54b6684cc40eb8248b9dbba11d462)](https://app.codacy.com/app/tomasBustamante/Pokemon?utm_source=github.com&utm_medium=referral&utm_content=tomasBustamante/Pokemon&utm_campaign=Badge_Grade_Dashboard)
