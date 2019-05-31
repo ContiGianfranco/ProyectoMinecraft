@@ -13,4 +13,5 @@ notifications:
   email:
     recipients:
       - giacocipo@gmail.com
+      - kinirochan909@gmail.com
     on_failure: always
