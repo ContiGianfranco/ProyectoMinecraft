@@ -8,6 +8,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class unoMasUnoIgualDosTest {
 
+
+    //Test redundante
     @Test
     public void test01esIgualAdos() {
 
