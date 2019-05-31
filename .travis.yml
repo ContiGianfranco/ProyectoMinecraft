@@ -12,5 +12,5 @@ after_success:
 notifications:
   email:
     recipients:
-      - jbustamante@fi.uba.ar
+      - giacocipo@gmail.com
     on_failure: always
