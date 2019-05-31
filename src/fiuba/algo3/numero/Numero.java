@@ -1,4 +1,4 @@
-package fiuba.algo3.Numero;
+package fiuba.algo3.numero;
 
 public class Numero {
 
