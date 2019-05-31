@@ -11,6 +11,6 @@ public class unoMasUnoIgualDosTest {
     //Test redundante
     @Test
     public void test01esIgualAdos() {
-        assertEquals(1+1, 3);
+        assertEquals(1+1, 2);
     }
 }
